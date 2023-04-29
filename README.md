@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beyondThatBridge
-- 👀 I’m interested in botany, engineering, maths, and stuff
+- 👀 I’m interested in botany, engineering, Maths, and stuff
 - 🌱 I’m currently learning git and fortran
 - 💞️ I’m looking to collaborate on Apollo Guidance and Control simulators
 - 📫 How to reach me: just message me
